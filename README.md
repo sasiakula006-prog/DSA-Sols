@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0005-longest-palindromic-substring) |
+| [0008-string-to-integer-atoi](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0008-string-to-integer-atoi) |
 ## Dynamic Programming
 |  |
 | ------- |
