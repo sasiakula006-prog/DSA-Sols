@@ -1,7 +1,11 @@
 class Solution(object):
     def myAtoi(self, s):
         sign = 1
-        s = s.lstrip()
+        while s:
+            if s[0] == " ":
+                s = s[1:]
+            else:
+                break
         a = []
         if len(s) ==0:
             return 0
