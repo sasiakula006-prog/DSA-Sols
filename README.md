@@ -5,12 +5,14 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0031-next-permutation) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0031-next-permutation) |
 ## Greedy
 |  |
 | ------- |
