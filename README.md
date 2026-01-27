@@ -18,6 +18,7 @@
 | [0011-container-with-most-water](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0031-next-permutation) |
+| [0556-next-greater-element-iii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0556-next-greater-element-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0008-string-to-integer-atoi) |
+| [0556-next-greater-element-iii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0556-next-greater-element-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -88,4 +90,8 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0503-next-greater-element-ii) |
+## Math
+|  |
+| ------- |
+| [0556-next-greater-element-iii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0556-next-greater-element-iii) |
 <!---LeetCode Topics End-->
