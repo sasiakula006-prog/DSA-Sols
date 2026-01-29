@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0031-next-permutation) |
 | [0128-longest-consecutive-sequence](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0215-kth-largest-element-in-an-array) |
@@ -16,6 +17,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0141-linked-list-cycle) |
@@ -80,6 +82,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
