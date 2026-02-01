@@ -111,6 +111,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0050-powx-n) |
 | [0556-next-greater-element-iii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0556-next-greater-element-iii) |
 ## Design
 |  |
@@ -123,5 +124,6 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
