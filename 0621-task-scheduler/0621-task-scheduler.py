@@ -1,6 +1,7 @@
 class Solution(object):
     def leastInterval(self, tasks, n):
-        d = {}
+        # using heaps
+        '''d = {}
         for val in tasks:
             if val not in d:
                 d[val] = 1
@@ -22,4 +23,18 @@ class Solution(object):
                 t+= n+1
             else:
                 t+= len(l)
-        return t
+        return t'''
+
+        #best sol
+        d = {}
+        for val in tasks:
+            if val not in d:
+                d[val]=1
+            else:
+                d[val]+=1
+        mf = max(d.values())
+        nmf = 0
+        for d in d.values():
+            if d == mf:
+                nmf +=1
+        return max(len(tasks),(mf-1)*(n+1)+nmf)
