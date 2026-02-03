@@ -10,6 +10,7 @@
 | [0053-maximum-subarray](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0560-subarray-sum-equals-k) |
@@ -76,6 +77,7 @@
 | [0141-linked-list-cycle](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0146-lru-cache) |
+| [0347-top-k-frequent-elements](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0621-task-scheduler) |
@@ -89,22 +91,26 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0846-hand-of-straights) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0347-top-k-frequent-elements) |
 ## Stack
 |  |
 | ------- |
@@ -137,5 +143,10 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0621-task-scheduler) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
