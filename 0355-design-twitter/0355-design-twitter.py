@@ -2,12 +2,12 @@ class Twitter(object):
 
     def __init__(self):
         self.time_posted = 0
-        self.followers_list = defaultdict(set) # Dictionary of Sets so there is no repeating followers
-        self.tweets = defaultdict(list) # Dictionary of lists for the the tweets  
+        self.followers_list = defaultdict(set) 
+        self.tweets = defaultdict(list) 
         
 
     def postTweet(self, userId, tweetId):
-        self.time_posted -= 1 # Negative value for the max heap use
+        self.time_posted -= 1
         self.tweets[userId].append([self.time_posted, tweetId])
         
 
