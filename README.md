@@ -75,6 +75,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0206-reverse-linked-list) |
+| [0355-design-twitter](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0355-design-twitter) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 | [0146-lru-cache](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0349-intersection-of-two-arrays) |
+| [0355-design-twitter](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0355-design-twitter) |
 | [0496-next-greater-element-i](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0621-task-scheduler) |
@@ -114,6 +116,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
@@ -140,6 +143,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0146-lru-cache) |
+| [0355-design-twitter](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0355-design-twitter) |
 ## Doubly-Linked List
 |  |
 | ------- |
