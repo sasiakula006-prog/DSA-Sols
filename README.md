@@ -139,6 +139,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0050-powx-n) |
 | [0556-next-greater-element-iii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0556-next-greater-element-iii) |
+| [1922-count-good-numbers](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1922-count-good-numbers) |
 ## Design
 |  |
 | ------- |
@@ -153,6 +154,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0206-reverse-linked-list) |
+| [1922-count-good-numbers](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1922-count-good-numbers) |
 ## Counting
 |  |
 | ------- |
