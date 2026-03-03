@@ -25,9 +25,9 @@ class Solution(object):
             num += a[i]*(10**e)
         num *= sign
         if num < -2**31:
-            num = -2**31
+            return -2**31
         if num >= 2**31:
-            num = 2**31 -1 
+            return 2**31 -1 
         return num
 
         
