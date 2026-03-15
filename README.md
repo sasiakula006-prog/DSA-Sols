@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0075-sort-colors) |
@@ -170,6 +171,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0349-intersection-of-two-arrays) |
 ## Backtracking
 |  |
