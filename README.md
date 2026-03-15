@@ -9,6 +9,7 @@
 | [0031-next-permutation](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0128-longest-consecutive-sequence) |
@@ -178,4 +179,5 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
