@@ -12,7 +12,7 @@ class Solution(object):
                 if j>i and candidates[j]==candidates[j-1]:
                     continue
                 if candidates[j] > t:
-                    break
+                    return 
                 srh(s+[candidates[j]],j+1,t-candidates[j])
         srh([],0,target)
         return L
