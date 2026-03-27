@@ -7,7 +7,6 @@ class Solution(object):
         def faah(s,i):
             if len(s)==n:
                 L.append(s)
-                s = ''
                 return
             for val in d[digits[i]]:
                 faah(s+val,i+1)
