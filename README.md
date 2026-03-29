@@ -12,6 +12,7 @@
 | [0040-combination-sum-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0215-kth-largest-element-in-an-array) |
@@ -51,6 +52,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0079-word-search) |
 | [0556-next-greater-element-iii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0556-next-greater-element-iii) |
 ## Dynamic Programming
 |  |
@@ -61,6 +63,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0079-word-search) |
 | [0547-number-of-provinces](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
@@ -185,10 +188,15 @@
 | [0022-generate-parentheses](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0090-subsets-ii) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
