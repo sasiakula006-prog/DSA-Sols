@@ -11,8 +11,8 @@ class Solution(object):
                 return True
             board[h][v] = temp
         for i in range(len(board)):
-                for j in range(len(board[0])):
-                    if bks(i,j,0):
-                        return True
+            for j in range(len(board[0])):
+                if bks(i,j,0):
+                    return True
         return False    
         
