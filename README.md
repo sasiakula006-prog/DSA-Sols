@@ -66,11 +66,13 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0079-word-search) |
+| [0207-course-schedule](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0994-rotting-oranges) |
@@ -82,6 +84,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0547-number-of-provinces) |
 ## Linked List
 |  |
@@ -206,4 +209,8 @@
 | [0079-word-search](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0079-word-search) |
 | [0733-flood-fill](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0994-rotting-oranges) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
