@@ -1,5 +1,6 @@
 class Solution(object):
     def isBipartite(self, graph):
+        #bfs
         n = len(graph)
         vis = [False]*n
         c = [0]*n
