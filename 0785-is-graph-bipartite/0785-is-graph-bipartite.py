@@ -1,7 +1,7 @@
 class Solution(object):
     def isBipartite(self, graph):
         #bfs
-        n = len(graph)
+        '''n = len(graph)
         vis = [False]*n
         c = [0]*n
         for i in range(n):
@@ -20,4 +20,23 @@ class Solution(object):
                         else:
                             if c[v] == c[a]:
                                 return False
+        return True'''
+        n = len(graph)
+        vis = [False]*n
+        color = [0]*n
+        def dfs(i,c):
+            vis[i] = True
+            color[i] = c
+            for nbr in graph[i]:
+                if not vis[nbr]:
+                    if dfs(nbr,1-c):
+                        return True
+                else:
+                    if color[nbr] == color[i]:
+                        return True
+            return False
+        for i in range(n):
+            if not vis[i]:
+                if dfs(i,0):
+                    return False
         return True
