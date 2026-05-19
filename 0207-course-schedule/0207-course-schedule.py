@@ -1,28 +1,28 @@
 class Solution(object):
     def canFinish(self, numCourses, prerequisites):
         #DFS
-        '''d = defaultdict(list)
+        adj = [[] for _ in range(numCourses)]
         for val in prerequisites:
-            d[val[0]].append(val[-1])
-        
-        t = set()
-        def dfs(c):
-            if not d[c]:
-                return True
-            if c in t:
-                return False
-            t.add(c)
-            for val in d[c]:
-                if not dfs(val):
-                    return False 
-            d[c]=[]          
-            return True
+            adj[val[-1]].append(val[0])
+        vis = [False]*numCourses
+        path = [False]*numCourses
+        def dfs(i):
+            vis[i] = path[i] = True
+            for val in adj[i]:
+                if not vis[val]:
+                    if dfs(val):
+                        return True
+                elif path[val]:
+                    return True
+            path[i] = False
+            return False
         for i in range(numCourses):
-            if not dfs(i):
-                return False
-        return True'''
+            if not vis[i]:
+                if dfs(i):
+                    return False
+        return True
         #BFS
-        d = defaultdict(list)
+        ''' d = defaultdict(list)
         indeg = [0]*numCourses
         for c,pre in prerequisites:
             d[pre].append(c)
@@ -39,4 +39,4 @@ class Solution(object):
                 indeg[val] -=1
                 if indeg[val]==0:
                     q.append(val)
-        return cont == numCourses
+        return cont == numCourses'''
