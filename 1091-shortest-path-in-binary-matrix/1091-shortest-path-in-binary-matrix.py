@@ -8,6 +8,7 @@ class Solution(object):
         di = [(-1,-1),(-1,1),(1,-1),(-1,0),(0,-1),(1,0),(0,1),(1,1)]
         q = deque()
         q.append(((0,0),1))
+        grid[0][0]=1
         while q:
             p,l = q.popleft()
             a,b = p
