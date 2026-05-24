@@ -69,6 +69,7 @@
 | [0005-longest-palindromic-substring](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0053-maximum-subarray) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | [0547-number-of-provinces](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1631-path-with-minimum-effort) |
@@ -94,6 +96,7 @@
 | [0547-number-of-provinces](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1020-number-of-enclaves) |
@@ -116,6 +119,7 @@
 | [0210-course-schedule-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0802-find-eventual-safe-states) |
 ## Linked List
 |  |
@@ -170,6 +174,7 @@
 | [0347-top-k-frequent-elements](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0621-task-scheduler) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1631-path-with-minimum-effort) |
 ## Quickselect
 |  |
@@ -254,4 +259,8 @@
 | [0207-course-schedule](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0802-find-eventual-safe-states) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
