@@ -5,6 +5,7 @@ class Solution(object):
         for u,v,t in roads:
             adj[u].append((v,t))
             adj[v].append((u,t))
+        mod = (10**9 + 7)
         count = [1]*n
         h = [(0,0)]
         while h:
@@ -16,5 +17,5 @@ class Solution(object):
                     heapq.heappush(h,(time[v2],v2))
                 elif t1+t2==time[v2]:
                     count[v2] += count[v1]
-        return (count[n-1])%(10**9 + 7)
+        return (count[n-1])%(mod)
         
