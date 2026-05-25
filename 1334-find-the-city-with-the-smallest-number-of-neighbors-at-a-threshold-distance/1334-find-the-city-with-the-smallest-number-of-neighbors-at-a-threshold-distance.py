@@ -3,7 +3,7 @@ class Solution(object):
         dis = [[distanceThreshold+1]*n for _ in range(n)]
         adj = defaultdict(list)
         nv = [n]*n
-        min_vis = 0
+        min_city = 0
         for u,v,d in edges:
             adj[u].append((v,d))
             adj[v].append((u,d))
@@ -22,8 +22,8 @@ class Solution(object):
                             vis.add(v2)
                         heapq.heappush(h,(dis[i][v2],v2))
             nv[i] = len(vis)
-            if nv[i]<= nv[min_vis]:
-                min_vis = i
-        return min_vis
+            if nv[i]<= nv[min_city]:
+                min_city = i
+        return min_city
         
             
