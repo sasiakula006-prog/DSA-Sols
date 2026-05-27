@@ -4,7 +4,7 @@ class Solution(object):
         vis = [False]*n
         if cn<n-1:
             return -1
-        adj = defaultdict(list)
+        adj = [[]*n for _ in range(n)]
         for u,v in connections:
             adj[u].append(v)
             adj[v].append(u)
