@@ -14,8 +14,16 @@ class Solution(object):
                 if not vis[val]:
                     dfs(val)
         c = 0
+        q = deque()
         for i in range(n):
             if not vis[i]:
-                dfs(i)
+                q.append(i)
+                vis[i] = True
+                while q:
+                    u = q.popleft()
+                    for v in adj[u]:
+                        if not vis[v]:
+                            vis[v] = True
+                            q.append(v)
                 c+=1
         return c-1
