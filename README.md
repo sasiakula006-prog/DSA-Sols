@@ -26,6 +26,7 @@
 | [0503-next-greater-element-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0733-flood-fill) |
 | [0846-hand-of-straights](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0846-hand-of-straights) |
 | [0994-rotting-oranges](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0994-rotting-oranges) |
@@ -64,6 +65,7 @@
 | [0079-word-search](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0127-word-ladder) |
 | [0556-next-greater-element-iii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0556-next-greater-element-iii) |
+| [0721-accounts-merge](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0721-accounts-merge) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Dynamic Programming
 |  |
@@ -83,6 +85,7 @@
 | [0207-course-schedule](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0785-is-graph-bipartite) |
@@ -101,6 +104,7 @@
 | [0207-course-schedule](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0785-is-graph-bipartite) |
@@ -118,6 +122,7 @@
 | [0130-surrounded-regions](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1020-number-of-enclaves) |
@@ -161,6 +166,7 @@
 | [0496-next-greater-element-i](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0846-hand-of-straights) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Prefix Sum
@@ -183,6 +189,7 @@
 | [0347-top-k-frequent-elements](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0349-intersection-of-two-arrays) |
 | [0621-task-scheduler](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0846-hand-of-straights) |
 ## Heap (Priority Queue)
 |  |
