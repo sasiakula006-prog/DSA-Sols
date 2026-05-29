@@ -7,7 +7,6 @@ class Solution(object):
         vis = set()
         while h:
             l,i,j = heapq.heappop(h)
-            vis.add((i,j))
             if t<l:
                 t=l
             if (i,j)==(n-1,n-1):
@@ -15,6 +14,7 @@ class Solution(object):
             for di,dj in dic:
                 ni,nj = i+di,j+dj
                 if 0<=ni<n and 0<=nj<n and (ni,nj) not in vis:
+                    vis.add((i,j))
                     heapq.heappush(h,(grid[ni][nj],ni,nj))
         
 
