@@ -14,8 +14,8 @@ class Solution(object):
             for di,dj in dic:
                 ni,nj = i+di,j+dj
                 if 0<=ni<n and 0<=nj<n and (ni,nj) not in vis:
-                    vis.add((i,j))
                     heapq.heappush(h,(grid[ni][nj],ni,nj))
+                    vis.add((i,j))
         
 
 
