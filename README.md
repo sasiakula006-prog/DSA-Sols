@@ -28,6 +28,7 @@
 | [0621-task-scheduler](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0827-making-a-large-island) |
 | [0846-hand-of-straights](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0846-hand-of-straights) |
 | [0994-rotting-oranges](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0994-rotting-oranges) |
@@ -89,6 +90,7 @@
 | [0721-accounts-merge](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0802-find-eventual-safe-states) |
@@ -109,6 +111,7 @@
 | [0721-accounts-merge](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0802-find-eventual-safe-states) |
@@ -126,6 +129,7 @@
 | [0200-number-of-islands](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0721-accounts-merge) |
+| [0778-swim-in-rising-water](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -203,6 +207,7 @@
 | [0355-design-twitter](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1631-path-with-minimum-effort) |
 ## Quickselect
@@ -257,6 +262,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0349-intersection-of-two-arrays) |
+| [0778-swim-in-rising-water](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1631-path-with-minimum-effort) |
 ## Backtracking
 |  |
@@ -279,6 +285,7 @@
 | [0130-surrounded-regions](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1020-number-of-enclaves) |
