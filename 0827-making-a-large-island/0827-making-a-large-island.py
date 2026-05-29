@@ -42,18 +42,18 @@ class Solution(object):
                         og.union(u,v)
         if not zeros:
             return og.size[og.find(0)]
-        options = defaultdict(set)
+        ans = 1
         for i,j in zeros:
+            vis = set()
             for di ,dj in dic:
                 ni,nj = i+di,j+dj
                 if 0<=ni<m and 0<=nj<n and grid[ni][nj]==1:
                         node = (ni*n)+nj
-                        options[(i,j)].add(og.find(node))
-        ans = 1
-        for val in options.values():
+                        vis.add(og.find(node))
             a=1
-            for p in val:
+            for p in vis:
                 a+= og.size[p]
             if ans<a:
-                ans =a 
+                ans =a  
+                
         return ans
