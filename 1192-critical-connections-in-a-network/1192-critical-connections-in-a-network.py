@@ -14,7 +14,7 @@ class Solution(object):
             vis[u] = True
             for v in adj[u]:
                 if v==p:
-                    pass
+                    continue
                 elif not vis[v]:
                     l_t[v] = time[v] = time[u]+1
                     dfs(v,u)
