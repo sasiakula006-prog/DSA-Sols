@@ -14,8 +14,8 @@ class Solution(object):
             vis[u] = True
             for v in adj[u]:
                 if v==p:
-                    continue
-                if not vis[v]:
+                    pass
+                elif not vis[v]:
                     l_t[v] = time[v] = time[u]+1
                     dfs(v,u)
                     l_t[u] = min(l_t[u],l_t[v])
