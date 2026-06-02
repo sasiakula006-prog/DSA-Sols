@@ -12,7 +12,8 @@ class Solution(object):
                 ans.append(-1)
         return ans'''
         stack, res = [], [-1] * len(nums)
-        for i in range(len(nums)) * 2:
+        for i in range(len(nums)* 2):
+            i = i%(len(nums))
             while stack and (nums[stack[-1]] < nums[i]):
                 res[stack.pop()] = nums[i]
             stack.append(i)
