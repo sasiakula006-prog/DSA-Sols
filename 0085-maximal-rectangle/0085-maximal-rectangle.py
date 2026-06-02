@@ -32,7 +32,6 @@ class Solution(object):
                     h[c] +=1
                 else:
                     h[c] =0
-            area = self.largestRectangleArea(h)
-            max_a = max(max_a,area)
+            max_a = max(max_a,self.largestRectangleArea(h))
         return max_a
         
