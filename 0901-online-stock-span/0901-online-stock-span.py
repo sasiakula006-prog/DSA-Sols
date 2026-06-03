@@ -5,8 +5,8 @@ class StockSpanner(object):
     def next(self, price):
         span=1
         while self.stocks and self.stocks[-1][0]<=price:
-            span += self.stocks[-1][1]
-            self.stocks.pop()
+            _,p = self.stocks.pop()
+            span += p
         self.stocks.append([price,span])
         return span
         
