@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0079-word-search) |
@@ -47,6 +48,7 @@
 | [0015-3sum](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0142-linked-list-cycle-ii) |
@@ -77,6 +79,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0085-maximal-rectangle) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -225,6 +228,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0496-next-greater-element-i) |
@@ -234,6 +238,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0496-next-greater-element-i) |
