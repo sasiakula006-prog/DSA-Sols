@@ -233,6 +233,7 @@
 | [0085-maximal-rectangle](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2104-sum-of-subarray-ranges](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
@@ -243,6 +244,7 @@
 | [0085-maximal-rectangle](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0901-online-stock-span) |
 | [2104-sum-of-subarray-ranges](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/2104-sum-of-subarray-ranges) |
 ## Math
 |  |
@@ -255,6 +257,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0355-design-twitter) |
+| [0901-online-stock-span](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0901-online-stock-span) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -327,4 +330,8 @@
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1192-critical-connections-in-a-network) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
