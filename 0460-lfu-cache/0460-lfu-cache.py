@@ -63,6 +63,7 @@ class LFUCache(object):
             self.d[key] = node
             self.freqlist[1].add(node)
             self.min_f =1
+
     def update(self,key):  
         node = self.d[key]
         p_f = node.freq
