@@ -168,6 +168,7 @@
 | [0146-lru-cache](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0355-design-twitter) |
+| [0460-lfu-cache](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0460-lfu-cache) |
 ## Hash Table
 |  |
 | ------- |
@@ -180,6 +181,7 @@
 | [0347-top-k-frequent-elements](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0349-intersection-of-two-arrays) |
 | [0355-design-twitter](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0355-design-twitter) |
+| [0460-lfu-cache](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0621-task-scheduler) |
@@ -257,11 +259,13 @@
 | ------- |
 | [0146-lru-cache](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0355-design-twitter) |
+| [0460-lfu-cache](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0901-online-stock-span) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0460-lfu-cache) |
 ## Recursion
 |  |
 | ------- |
