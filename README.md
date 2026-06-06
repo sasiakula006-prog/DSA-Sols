@@ -12,6 +12,7 @@
 | [0040-combination-sum-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0084-largest-rectangle-in-histogram) |
@@ -174,6 +175,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0141-linked-list-cycle) |
@@ -310,6 +312,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0130-surrounded-regions) |
