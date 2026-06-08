@@ -21,6 +21,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0130-surrounded-regions) |
 | [0169-majority-element](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0216-combination-sum-iii) |
@@ -85,6 +86,7 @@
 | [0053-maximum-subarray](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0085-maximal-rectangle) |
+| [0198-house-robber](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0198-house-robber) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1976-number-of-ways-to-arrive-at-destination) |
