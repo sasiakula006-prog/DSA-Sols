@@ -3,7 +3,7 @@ class Solution(object):
         n = len(nums)
         if n==1:
             return nums[-1]
-        # recoursive sol didn't work tho
+        # recursive sol didn't work tho
         '''ans = [0]
         def solve(i,s,ans):
             if i<n-2:
