@@ -13,6 +13,7 @@
 | [0042-trapping-rain-water](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0079-word-search) |
@@ -88,6 +89,7 @@
 | [0053-maximum-subarray](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0085-maximal-rectangle) |
 | [0198-house-robber](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0198-house-robber) |
@@ -323,6 +325,7 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0085-maximal-rectangle) |
