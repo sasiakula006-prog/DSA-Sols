@@ -1,6 +1,5 @@
 class Solution(object):
     def uniquePaths(self, m, n):
-        c = []
         dic = [(0,1),(1,0)]
         dp = [[0]*n for _ in range(m)]
         def solve(i,j):
@@ -13,4 +12,4 @@ class Solution(object):
                 if ni <m and nj < n:
                     dp[i][j] += solve(ni,nj)
             return dp[i][j]
-        return solve(0,0)%(2*10**9)
+        return solve(0,0)
