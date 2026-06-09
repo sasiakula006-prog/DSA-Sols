@@ -32,6 +32,7 @@
 | [0238-product-of-array-except-self](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0349-intersection-of-two-arrays) |
+| [0416-partition-equal-subset-sum](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0560-subarray-sum-equals-k) |
@@ -96,6 +97,7 @@
 | [0120-triangle](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0416-partition-equal-subset-sum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1976-number-of-ways-to-arrive-at-destination) |
