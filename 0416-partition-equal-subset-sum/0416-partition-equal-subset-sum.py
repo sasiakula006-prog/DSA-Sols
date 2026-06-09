@@ -12,10 +12,7 @@ class Solution(object):
                 return False
             if dp[i][t] != -1:
                 return dp[i][t]
-            if f(i+1,t-nums[i]):
-                dp[i][t] = True
-                return True
-            if f(i+1,t):
+            if f(i+1,t-nums[i]) or f(i+1,t):
                 dp[i][t] = True
                 return True
             dp[i][t] = False
