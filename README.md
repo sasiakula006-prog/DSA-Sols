@@ -38,6 +38,7 @@
 | [0494-target-sum](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0503-next-greater-element-ii) |
+| [0518-coin-change-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0721-accounts-merge) |
@@ -108,6 +109,7 @@
 | [0322-coin-change](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0518-coin-change-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1976-number-of-ways-to-arrive-at-destination) |
