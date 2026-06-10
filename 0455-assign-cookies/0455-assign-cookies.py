@@ -4,12 +4,9 @@ class Solution(object):
         s.sort()
         m = len(g)
         n = len(s)
-        i = j= cnt =0
+        i = j = 0
         while i<m and j<n:
             if s[j]>=g[i]:
-                cnt+=1
                 i+=1
-                j+=1
-            else:
-                j+=1
-        return cnt
+            j+=1
+        return i
