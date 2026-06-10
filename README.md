@@ -49,6 +49,7 @@
 | [1631-path-with-minimum-effort](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1631-path-with-minimum-effort) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2104-sum-of-subarray-ranges](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/2104-sum-of-subarray-ranges) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0455-assign-cookies) |
 | [0556-next-greater-element-iii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0556-next-greater-element-iii) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Greedy
 |  |
 | ------- |
@@ -72,6 +74,7 @@
 | [0621-task-scheduler](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0846-hand-of-straights) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## String
 |  |
 | ------- |
@@ -234,6 +237,7 @@
 | [0621-task-scheduler](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0846-hand-of-straights) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
