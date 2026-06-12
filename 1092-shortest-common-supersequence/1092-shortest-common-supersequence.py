@@ -1,5 +1,7 @@
 class Solution(object):
     def shortestCommonSupersequence(self, str1, str2):
+        if str1 == str2:
+            return str1
         m,n = len(str1),len(str2)
         dp = [[-1]*(n+1) for _ in range(m+1)]
         for i in range(m+1):
