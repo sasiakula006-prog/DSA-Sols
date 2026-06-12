@@ -17,14 +17,10 @@ class Solution(object):
             dp[i][j] = p1+p2
             return p1+p2
         return f(0,0)'''
-        dp = [[0]*(n+1) for _ in range(m+1)]
-        for i in range(m+1):
-            dp[i][0] = 1
+        prev = [0]*(n+1)
+        prev[0] = 1
         for i in range(1,m+1):
-            for j in range(1,n+1):
-                p1,p2 = 0,0
+            for j in range(n,0,-1):
                 if s[i-1] == t[j-1]:
-                    p1 = dp[i-1][j-1]
-                p2 = dp[i-1][j]
-                dp[i][j] = p1+p2
-        return dp[m][n]
+                    prev[j] = prev[j-1] + prev[j]
+        return prev[n]
