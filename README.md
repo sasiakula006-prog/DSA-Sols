@@ -87,6 +87,7 @@
 | [0020-valid-parentheses](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0127-word-ladder) |
 | [0516-longest-palindromic-subsequence](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0516-longest-palindromic-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0556-next-greater-element-iii) |
@@ -107,6 +108,7 @@
 | [0064-minimum-path-sum](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0213-house-robber-ii) |
