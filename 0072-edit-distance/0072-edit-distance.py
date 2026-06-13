@@ -1,5 +1,7 @@
 class Solution(object):
     def minDistance(self, word1, word2):
+        if word1 == word2:
+            return 0
         m = len(word1)
         n = len(word2)
         dp = [[-1]*(n) for _ in range(m)]
