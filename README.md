@@ -21,6 +21,7 @@
 | [0085-maximal-rectangle](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0130-surrounded-regions) |
 | [0169-majority-element](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0169-majority-element) |
@@ -115,6 +116,7 @@
 | [0085-maximal-rectangle](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0322-coin-change) |
