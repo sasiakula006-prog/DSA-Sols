@@ -73,6 +73,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0044-wildcard-matching) |
 | [0455-assign-cookies](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0846-hand-of-straights) |
@@ -86,6 +87,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0115-distinct-subsequences) |
@@ -103,6 +105,7 @@
 | [0005-longest-palindromic-substring](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0063-unique-paths-ii) |
@@ -318,6 +321,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0206-reverse-linked-list) |
 | [1922-count-good-numbers](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1922-count-good-numbers) |
