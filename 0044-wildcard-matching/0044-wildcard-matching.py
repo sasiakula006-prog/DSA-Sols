@@ -2,6 +2,8 @@ class Solution(object):
     def isMatch(self, s, p):
         m = len(s)
         n = len(p)
+        if p == ["*"]*n:
+            return True
         dp = [[-1]*n for _ in range(m)]
         def f(i,j,s,p,dp):
             if i<0 and j<0:
