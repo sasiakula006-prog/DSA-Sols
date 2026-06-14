@@ -46,6 +46,7 @@
 | [0518-coin-change-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0621-task-scheduler) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0778-swim-in-rising-water) |
@@ -82,6 +83,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0621-task-scheduler) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0846-hand-of-straights](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0846-hand-of-straights) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -134,6 +136,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0583-delete-operation-for-two-strings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1092-shortest-common-supersequence](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
