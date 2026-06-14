@@ -38,6 +38,7 @@
 | [0322-coin-change](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0349-intersection-of-two-arrays) |
+| [0368-largest-divisible-subset](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0494-target-sum) |
@@ -131,6 +132,7 @@
 | [0213-house-robber-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0213-house-robber-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0322-coin-change) |
+| [0368-largest-divisible-subset](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0516-longest-palindromic-subsequence) |
@@ -269,6 +271,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0349-intersection-of-two-arrays) |
+| [0368-largest-divisible-subset](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0721-accounts-merge) |
@@ -318,6 +321,7 @@
 | [0050-powx-n](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0070-climbing-stairs) |
+| [0368-largest-divisible-subset](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0368-largest-divisible-subset) |
 | [0556-next-greater-element-iii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0556-next-greater-element-iii) |
 | [1922-count-good-numbers](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1922-count-good-numbers) |
 ## Design
