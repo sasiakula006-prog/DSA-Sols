@@ -9,15 +9,12 @@ class Solution(object):
                 if words[i][:j]+words[i][j+1:]==words[p]:
                     return True
             return False
-        dp = [[-1]*n for _ in range(n)]
-        def f(i,p):
-            if i==n:
-                return 0
-            a = f(i+1,p)
-            if dp[i][p+1] !=-1:
-                return dp[i][p+1]
-            if p==-1 or check(i,p):
-                a = max(a,1+f(i+1,i))
-                dp[i][p+1] = a
-            return a
-        return f(0,-1)
+        maxi = 0
+        dp = [1]*n
+        for i in range(n):
+            for p in range(i):
+                if check(i,p) and dp[i]<1+dp[p]:
+                    dp[i] = 1+dp[p]
+            if dp[i]>maxi:
+                maxi = dp[i]
+        return maxi
