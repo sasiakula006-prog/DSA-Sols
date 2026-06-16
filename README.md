@@ -106,6 +106,7 @@
 | [0079-word-search](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0127-word-ladder) |
+| [0132-palindrome-partitioning-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0132-palindrome-partitioning-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0516-longest-palindromic-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0556-next-greater-element-iii) |
 | [0583-delete-operation-for-two-strings](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0583-delete-operation-for-two-strings) |
@@ -134,6 +135,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0132-palindrome-partitioning-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0132-palindrome-partitioning-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0213-house-robber-ii) |
