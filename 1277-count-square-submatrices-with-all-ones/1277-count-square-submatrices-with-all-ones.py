@@ -10,17 +10,18 @@ class Solution(object):
                 ni,nj = i+di,j+dj
                 mini = min(mini,dp[ni][nj])
             return mini
+        t = 0
         for j in range(n):
             dp[0][j] = matrix[0][j]
-        for i in range(m):
+            t += matrix[0][j]
+
+        for i in range(1,m):
             dp[i][0] = matrix[i][0]
-        for i in range(m):
-            for j in range(n):
+            t+=matrix[i][0]
+
+        for i in range(1,m):
+            for j in range(1,n):
                 if matrix[i][j]:
                     dp[i][j] = check(i,j)+1
-        t=0
-        for i in range(m):
-            for j in range(n):
-                t += dp[i][j]
+                    t += dp[i][j]
         return t
-        
