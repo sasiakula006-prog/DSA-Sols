@@ -58,6 +58,7 @@
 | [1020-number-of-enclaves](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1020-number-of-enclaves) |
 | [1048-longest-string-chain](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1631-path-with-minimum-effort) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2104-sum-of-subarray-ranges](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/2104-sum-of-subarray-ranges) |
@@ -149,6 +150,7 @@
 | [1092-shortest-common-supersequence](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Depth-First Search
 |  |
@@ -284,6 +286,7 @@
 | [0721-accounts-merge](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0846-hand-of-straights) |
 | [1048-longest-string-chain](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1048-longest-string-chain) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Heap (Priority Queue)
 |  |
