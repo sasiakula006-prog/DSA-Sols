@@ -113,6 +113,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1048-longest-string-chain](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1092-shortest-common-supersequence) |
+| [1106-parsing-a-boolean-expression](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1106-parsing-a-boolean-expression) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Dynamic Programming
 |  |
@@ -317,6 +318,7 @@
 | [0503-next-greater-element-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1106-parsing-a-boolean-expression](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1106-parsing-a-boolean-expression) |
 | [2104-sum-of-subarray-ranges](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
@@ -355,6 +357,7 @@
 | [0044-wildcard-matching](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0206-reverse-linked-list) |
+| [1106-parsing-a-boolean-expression](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1106-parsing-a-boolean-expression) |
 | [1922-count-good-numbers](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1922-count-good-numbers) |
 ## Counting
 |  |
