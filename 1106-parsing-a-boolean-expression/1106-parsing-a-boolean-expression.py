@@ -13,23 +13,26 @@ class Solution(object):
                 r = not f(i)
                 i[0]+=1
                 return r
-            v = []
+            has_t = False
+            has_f = False
             i[0]+=1
             while expression[i[0]] !=')':
                 if expression[i[0]] != ',':
-                    v.append(f(i))
+                    v = f(i)
+                    if v:
+                        has_t = True
+                    else:
+                        has_f = True
                 else:
                     i[0]+=1
             i[0] +=1
             if cur == '&':
-                for val in v:
-                    if not val:
-                        return val
+                if has_f:
+                    return False
                 return True
             if cur == '|':
-                for val in v:
-                    if val:
-                        return val
+                if has_t:
+                    return True
                 return False
             return False
         return f([0])
