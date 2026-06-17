@@ -56,6 +56,7 @@
 | [0827-making-a-large-island](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0827-making-a-large-island) |
 | [0846-hand-of-straights](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0846-hand-of-straights) |
 | [0994-rotting-oranges](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1020-number-of-enclaves) |
 | [1043-partition-array-for-maximum-sum](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1048-longest-string-chain) |
@@ -275,6 +276,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -383,6 +385,7 @@
 | [0035-search-insert-position](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0349-intersection-of-two-arrays) |
 | [0778-swim-in-rising-water](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0778-swim-in-rising-water) |
+| [1004-max-consecutive-ones-iii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1631-path-with-minimum-effort) |
 ## Backtracking
 |  |
@@ -459,4 +462,5 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
