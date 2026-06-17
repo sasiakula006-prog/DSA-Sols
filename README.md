@@ -98,6 +98,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -249,6 +250,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0127-word-ladder) |
@@ -453,4 +455,8 @@
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
