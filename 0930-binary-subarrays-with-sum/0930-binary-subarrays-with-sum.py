@@ -1,9 +1,9 @@
 class Solution(object):
     def numSubarraysWithSum(self, nums, goal):
-        def f(nums,g):
+        n =  len(nums)
+        def f(g):
             if g<0:
                 return 0
-            n =  len(nums)
             l=r=0
             t = 0
             cnt = 0
@@ -15,4 +15,4 @@ class Solution(object):
                 cnt += (r-l+1)
                 r+=1
             return cnt
-        return f(nums,goal)-f(nums,goal-1)
+        return f(goal)-f(goal-1)
