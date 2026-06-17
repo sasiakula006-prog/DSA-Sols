@@ -10,7 +10,6 @@ class Solution(object):
             mf = max(mf,d[s[r]])
             while (r-l+1)-mf>k:
                 d[s[l]]-=1
-                mf = max(d.values())
                 l+=1
             maxi = max(maxi,r-l+1)
             r+=1
