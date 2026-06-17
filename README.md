@@ -111,6 +111,7 @@
 | [0115-distinct-subsequences](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0132-palindrome-partitioning-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0516-longest-palindromic-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0556-next-greater-element-iii) |
 | [0583-delete-operation-for-two-strings](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0583-delete-operation-for-two-strings) |
@@ -263,6 +264,7 @@
 | [0347-top-k-frequent-elements](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0349-intersection-of-two-arrays) |
 | [0355-design-twitter](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0355-design-twitter) |
+| [0424-longest-repeating-character-replacement](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0560-subarray-sum-equals-k) |
@@ -462,5 +464,6 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
