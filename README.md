@@ -62,6 +62,7 @@
 | [1043-partition-array-for-maximum-sum](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1248-count-number-of-nice-subarrays](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1248-count-number-of-nice-subarrays) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1631-path-with-minimum-effort) |
@@ -275,6 +276,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0930-binary-subarrays-with-sum) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1048-longest-string-chain](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1048-longest-string-chain) |
+| [1248-count-number-of-nice-subarrays](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1248-count-number-of-nice-subarrays) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -282,6 +284,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1248-count-number-of-nice-subarrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -353,6 +356,7 @@
 | [0070-climbing-stairs](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0368-largest-divisible-subset) |
 | [0556-next-greater-element-iii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0556-next-greater-element-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1922-count-good-numbers) |
 ## Design
 |  |
@@ -470,4 +474,5 @@
 | [0424-longest-repeating-character-replacement](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
