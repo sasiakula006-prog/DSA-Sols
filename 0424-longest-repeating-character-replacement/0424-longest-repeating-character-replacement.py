@@ -1,6 +1,8 @@
 class Solution(object):
     def characterReplacement(self, s, k):
         n = len(s)
+        if n==1:
+            return 1
         l = r =0
         maxi = 0
         mf = 0
