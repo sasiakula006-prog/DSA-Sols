@@ -111,6 +111,7 @@
 | [0022-generate-parentheses](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0127-word-ladder) |
@@ -260,6 +261,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0141-linked-list-cycle) |
@@ -478,6 +480,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0992-subarrays-with-k-different-integers) |
