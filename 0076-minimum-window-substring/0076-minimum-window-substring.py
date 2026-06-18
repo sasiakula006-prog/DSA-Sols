@@ -7,8 +7,8 @@ class Solution(object):
         n = len(s)
         si = -1
         mini = 1e9
-        l = r = 0
-        while r<n:            
+        l = 0
+        for r in range(n):
             if d[s[r]] > 0:
                 cnt+=1
             d[s[r]]-=1
@@ -20,7 +20,6 @@ class Solution(object):
                 if d[s[l]]>0:
                     cnt-=1
                 l+=1
-            r+=1
         if mini ==1e9:
             return ''
         return s[si:si+mini+1]
