@@ -123,6 +123,7 @@
 | [1092-shortest-common-supersequence](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1092-shortest-common-supersequence) |
 | [1106-parsing-a-boolean-expression](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1106-parsing-a-boolean-expression) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -277,6 +278,7 @@
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1048-longest-string-chain](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -475,4 +477,5 @@
 | [0930-binary-subarrays-with-sum](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
