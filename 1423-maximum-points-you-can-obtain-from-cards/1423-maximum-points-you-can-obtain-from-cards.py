@@ -5,9 +5,8 @@ class Solution(object):
         maxi = 0
         t = sum(cardPoints[:k])
         maxi =max(maxi,t)
-        while k:
-            t += (-cardPoints[k-1]+cardPoints[r])
+        for l in range(k-1,-1,-1):
+            t += (-cardPoints[l]+cardPoints[r])
             r -=1
-            k -=1
             maxi = max(maxi,t)
         return maxi
