@@ -56,6 +56,7 @@
 | [0778-swim-in-rising-water](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0827-making-a-large-island) |
 | [0846-hand-of-straights](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0860-lemonade-change) |
 | [0930-binary-subarrays-with-sum](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0994-rotting-oranges) |
@@ -99,6 +100,7 @@
 | [0621-task-scheduler](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0846-hand-of-straights](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## String
