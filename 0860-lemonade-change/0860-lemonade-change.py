@@ -1,16 +1,22 @@
 class Solution(object):
     def lemonadeChange(self, bills):
-        n = len(bills)
-        d = defaultdict(int)
-        for i in range(n):
-            d[bills[i]] +=1
-            c = bills[i]-5
-            if c>=10 and d[10]>=(c//10):
-                d[10] -= c//10
-                c = c%10
-            if c>=5 and d[5]>=(c//5):
-                d[5]-=c//5
-                c = c%5
-            if c:
-                return False
+        f = 0
+        t = 0
+        for val in bills:
+            if val == 5:
+                f+=1
+            elif val == 10:
+                if f:
+                    f -=1
+                else:
+                    return False
+                t +=1
+            else:
+                if t and f:
+                    f-=1
+                    t-=1
+                elif f>=3:
+                    f-=3
+                else:
+                    return False
         return True    
