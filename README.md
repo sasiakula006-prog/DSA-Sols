@@ -98,6 +98,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0846-hand-of-straights](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0860-lemonade-change) |
@@ -123,6 +124,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0516-longest-palindromic-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0556-next-greater-element-iii) |
 | [0583-delete-operation-for-two-strings](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0721-accounts-merge) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1048-longest-string-chain](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1048-longest-string-chain) |
@@ -163,6 +165,7 @@
 | [0518-coin-change-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1043-partition-array-for-maximum-sum](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1043-partition-array-for-maximum-sum) |
@@ -346,6 +349,7 @@
 | [0085-maximal-rectangle](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0678-valid-parenthesis-string) |
 | [0901-online-stock-span](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1106-parsing-a-boolean-expression](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1106-parsing-a-boolean-expression) |
