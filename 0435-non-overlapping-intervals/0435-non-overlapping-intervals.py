@@ -1,5 +1,7 @@
 class Solution(object):
     def eraseOverlapIntervals(self, intervals):
+        if len(intervals)==1:
+            return 0
         intervals.sort(key = lambda x:x[-1])
         cnt = 0
         pet = -1e6
