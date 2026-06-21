@@ -9,11 +9,11 @@ class Solution(object):
             if ratings[i]>ratings[i-1]:
                 left[i] = left[i-1]+1
         
+        t = left[-1]
         for i in range(n-2,-1,-1):
             if ratings[i]> ratings[i+1]:
                 right[i] = right[i+1]+1
-        t = 0
-        for i in range(n):
-            t += max(left[i],right[i])
-
+                t += max(left[i],right[i])
+            else:
+                t += left[i]
         return t
