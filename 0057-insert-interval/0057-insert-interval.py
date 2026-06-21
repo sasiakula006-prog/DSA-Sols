@@ -1,17 +1,12 @@
 class Solution(object):
     def insert(self, intervals, newInterval):
-        st,en = [],[]
-        for val in intervals:
-            st.append(val[0])
-            en.append(val[1])
-        st.append(newInterval[0])
-        en.append(newInterval[1])
-        st.sort()
-        en.sort()
-        ans = [[st[0],en[0]]]
-        for i in range(1,len(st)):
-            if st[i] <= ans[-1][-1]:
-                ans[-1][-1] = en[i]        
+        intervals.append(newInterval)
+        intervals.sort(key = lambda x:x[0])
+        ans = [intervals[0]]
+        for i in range(len(intervals)):
+            if ans[-1][-1] >= intervals[i][0]:
+                if ans[-1][-1] < intervals[i][1]:
+                    ans[-1][-1] = intervals[i][1]
             else:
-                ans.append([st[i],en[i]])
+                ans.append(intervals[i])
         return ans
