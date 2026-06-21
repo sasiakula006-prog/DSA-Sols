@@ -1,6 +1,8 @@
 class Solution(object):
     def candy(self, ratings):
         n = len(ratings)
+        if n ==1:
+            return 1
         left = [1]*n
         right = [1]*n
         for i in range(1,n):
