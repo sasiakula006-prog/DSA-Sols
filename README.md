@@ -35,6 +35,7 @@
 | [0130-surrounded-regions](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0198-house-robber) |
@@ -433,6 +434,7 @@
 | [0035-search-insert-position](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0540-single-element-in-a-sorted-array) |
