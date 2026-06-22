@@ -7,12 +7,12 @@ class Solution(object):
             if nums[mid] == target:
                 return mid
             if nums[l]<=nums[mid]:
-                if nums[l]<=target<=nums[mid]:
+                if nums[l]<=target<nums[mid]:
                     h = mid-1
                 else:
                     l = mid+1
             else:
-                if nums[mid]<=target<=nums[h]:
+                if nums[mid]<target<=nums[h]:
                     l = mid+1
                 else:
                     h = mid-1
