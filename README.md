@@ -57,6 +57,7 @@
 | [0496-next-greater-element-i](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0518-coin-change-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0621-task-scheduler) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -434,6 +435,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0349-intersection-of-two-arrays) |
+| [0540-single-element-in-a-sorted-array](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0540-single-element-in-a-sorted-array) |
 | [0778-swim-in-rising-water](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0778-swim-in-rising-water) |
 | [1004-max-consecutive-ones-iii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1631-path-with-minimum-effort) |
