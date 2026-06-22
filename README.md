@@ -23,6 +23,7 @@
 | [0073-set-matrix-zeroes](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0079-word-search) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0090-subsets-ii) |
@@ -428,6 +429,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0349-intersection-of-two-arrays) |
 | [0778-swim-in-rising-water](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0778-swim-in-rising-water) |
