@@ -4,10 +4,7 @@ class Solution(object):
         def check(v):
             s = 0
             for i in range(n):
-                if nums[i]%v:
-                    s += (nums[i]//v)+1
-                else:
-                    s+= nums[i]//v
+                s += ((nums[i]+v-1)//v)
             if s<=threshold:
                 return True
             return False
