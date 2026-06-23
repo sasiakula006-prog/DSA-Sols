@@ -69,6 +69,7 @@
 | [0827-making-a-large-island](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0827-making-a-large-island) |
 | [0846-hand-of-straights](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0860-lemonade-change) |
+| [0875-koko-eating-bananas](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0994-rotting-oranges) |
@@ -439,6 +440,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0540-single-element-in-a-sorted-array) |
 | [0778-swim-in-rising-water](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0778-swim-in-rising-water) |
+| [0875-koko-eating-bananas](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1631-path-with-minimum-effort) |
 ## Backtracking
