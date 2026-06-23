@@ -7,7 +7,7 @@ class Solution(object):
         ans = 0
         while l<=h:
             mid = (l+h)//2
-            if arr[mid]-(mid)-1>=k:
+            if arr[mid]-(mid+1)>=k:
                 h = mid-1
             else:
                 ans = mid
