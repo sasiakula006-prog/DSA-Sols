@@ -47,6 +47,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0240-search-a-2d-matrix-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0322-coin-change) |
@@ -337,6 +338,7 @@
 | [0053-maximum-subarray](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
@@ -450,6 +452,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0540-single-element-in-a-sorted-array) |
@@ -487,6 +490,7 @@
 | [0085-maximal-rectangle](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0827-making-a-large-island) |
