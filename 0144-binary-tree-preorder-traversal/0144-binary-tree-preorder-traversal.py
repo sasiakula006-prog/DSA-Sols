@@ -9,10 +9,8 @@ class Solution(object):
         ans = []
         def dfs(cur):
             if cur:
-                ans.append(cur.val)
-                if cur.left:
-                    dfs(cur.left)
-                if cur.right:
-                    dfs(cur.right)
+                ans.append(cur.val)    
+                dfs(cur.left)
+                dfs(cur.right)
         dfs(root)
         return ans
