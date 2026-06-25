@@ -214,6 +214,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0094-binary-tree-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0210-course-schedule-ii) |
@@ -387,6 +388,7 @@
 | [0085-maximal-rectangle](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0678-valid-parenthesis-string) |
@@ -562,9 +564,11 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
