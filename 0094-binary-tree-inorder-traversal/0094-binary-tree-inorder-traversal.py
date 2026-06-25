@@ -7,11 +7,24 @@
 class Solution(object):
     def inorderTraversal(self, root):
         ans = []
-        def dfs(cur):
+        '''def dfs(cur):
             if not cur:
                 return
             dfs(cur.left)
             ans.append(cur.val)
             dfs(cur.right)
         dfs(root)
+        return ans'''
+        s = []
+        node = root
+        while True:
+            if node:
+                s.append(node)
+                node = node.left
+            else:
+                if not s:
+                    break
+                node = s.pop()
+                ans.append(node.val)
+                node = node.right
         return ans
