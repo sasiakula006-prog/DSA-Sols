@@ -6,6 +6,8 @@
 #         self.right = right
 class Solution(object):
     def isSymmetric(self, root):
+        if not root:
+            return True
         def dfs(c1,c2):
             if not c1 and not c2:
                 return True
@@ -16,7 +18,6 @@ class Solution(object):
             if c1.val != c2.val:
                 return False
             return dfs(c1.left,c2.right) and dfs(c1.right,c2.left)
-        if not root:
-            return True
+
         return dfs(root.left,root.right)
             
