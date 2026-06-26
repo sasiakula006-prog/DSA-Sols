@@ -16,10 +16,7 @@ class Solution(object):
             r = dfs(cur.right)
             if l and r :
                 return cur
-            if l:
-                return l
-            if r:
-                return r
+            return l or r
         return dfs(root)
 
         
