@@ -6,7 +6,7 @@
 #         self.right = right
 class Solution(object):
     def verticalTraversal(self, root):
-        d = defaultdict(lambda:defaultdict(list))
+        d = defaultdict(lambda: defaultdict(list))
         self.maxi,self.mini = 0,0
         def dfs(cur,b,v):
             if not cur:
@@ -21,6 +21,6 @@ class Solution(object):
         for i in d.keys():
             for v in sorted(d[i].keys()):
                 d[i][v].sort()
-                ans[i-self.mini] += d[i][v]
+                ans[i-self.mini].extend(d[i][v])
         return ans
         
