@@ -11,9 +11,7 @@ class Solution(object):
         def dfs(c1,c2):
             if not c1 and not c2:
                 return True
-            if not c1 and c2:
-                return False
-            if not c2 and c1:
+            if (not c1 and c2) or (not c2 and c1):
                 return False
             if c1.val != c2.val:
                 return False
