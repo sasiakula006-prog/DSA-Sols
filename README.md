@@ -28,6 +28,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -109,6 +110,7 @@
 | [0031-next-permutation](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0142-linked-list-cycle-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0349-intersection-of-two-arrays) |
@@ -382,6 +384,7 @@
 | [0015-3sum](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0229-majority-element-ii) |
