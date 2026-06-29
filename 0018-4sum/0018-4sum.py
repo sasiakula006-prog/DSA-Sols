@@ -1,9 +1,9 @@
 class Solution(object):
-    def threeSum(self, nums,num,t):
+    def threeSum(self, nums,st,t):
         ans = []
         l = len(nums)
-        for i in range(l):
-            if i>0 and nums[i] == nums[i-1]:
+        for i in range(st+1,l):
+            if i>st+1 and nums[i] == nums[i-1]:
                 continue
             j = i+1
             k = l-1            
@@ -14,7 +14,7 @@ class Solution(object):
                 elif s<t:
                     j +=1
                 else:
-                    ans.append([num,nums[i],nums[j],nums[k]])
+                    ans.append([nums[st],nums[i],nums[j],nums[k]])
                     j +=1
 
                     while nums[j] == nums[j-1] and j<k:
@@ -27,7 +27,7 @@ class Solution(object):
         for i in range(len(nums)):
             if i>0 and nums[i]==nums[i-1]:
                 continue
-            res = self.threeSum(nums[i+1:],nums[i],target-nums[i])
+            res = self.threeSum(nums,i,target-nums[i])
             if res:
                 ans.extend(res)
         return ans
