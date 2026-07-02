@@ -101,6 +101,7 @@
 | [1901-find-a-peak-element-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1901-find-a-peak-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/2104-sum-of-subarray-ranges) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -284,6 +285,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1631-path-with-minimum-effort) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -299,6 +301,7 @@
 | [1020-number-of-enclaves](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1631-path-with-minimum-effort) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
@@ -414,6 +417,7 @@
 | [0778-swim-in-rising-water](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1631-path-with-minimum-effort) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Quickselect
 |  |
 | ------- |
@@ -515,6 +519,7 @@
 | [1539-kth-missing-positive-number](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1901-find-a-peak-element-ii) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Backtracking
 |  |
 | ------- |
@@ -552,6 +557,7 @@
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1631-path-with-minimum-effort](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1901-find-a-peak-element-ii) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
