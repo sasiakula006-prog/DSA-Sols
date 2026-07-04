@@ -1,6 +1,6 @@
 class Solution(object):
     def minScore(self, n, roads):
-        g = [[] for _ in range(n+1)]
+        g = defaultdict(list)
         for u0,v0,d0 in roads:
             g[u0].append((v0,d0))
             g[v0].append((u0,d0))
