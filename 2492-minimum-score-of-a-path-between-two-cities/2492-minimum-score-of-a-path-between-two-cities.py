@@ -6,6 +6,7 @@ class Solution(object):
             g[v0].append((u0,d0))
         minp = float('inf')
         vis = set()
+        vis.add(1)
         q = deque([1])
         while q:
             u = q.popleft()
