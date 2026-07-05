@@ -10,7 +10,7 @@ class Solution(object):
                     if piles[i]%k:
                         t+= (piles[i]//k)+1
                     else:
-                        t+=(piles[i]//k)
+                        t+= (piles[i]//k)
                 else:
                     t+=1
             if t<=h:
