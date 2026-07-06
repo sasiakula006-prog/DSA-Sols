@@ -5,9 +5,7 @@ class Solution(object):
         cnt = 1
         for s,e in intervals[1:]:
             if prev0 < s:
-                if e<=prev1:
-                    continue
-                else:
+                if e>prev1:
                     prev0,prev1 = s,e
                     cnt+=1
             else:
