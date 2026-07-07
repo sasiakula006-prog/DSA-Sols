@@ -479,6 +479,7 @@
 | [0556-next-greater-element-iii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0556-next-greater-element-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1922-count-good-numbers) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Design
 |  |
 | ------- |
