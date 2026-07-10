@@ -111,6 +111,7 @@
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3620-network-recovery-pathways) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Two Pointers
 |  |
@@ -132,6 +133,7 @@
 | [1048-longest-string-chain](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1048-longest-string-chain) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Greedy
 |  |
 | ------- |
