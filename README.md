@@ -109,6 +109,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3620-network-recovery-pathways) |
 ## Two Pointers
 |  |
@@ -129,6 +130,7 @@
 | [0556-next-greater-element-iii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0556-next-greater-element-iii) |
 | [1048-longest-string-chain](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1048-longest-string-chain) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -152,6 +154,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
 | ------- |
@@ -236,6 +239,7 @@
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3620-network-recovery-pathways) |
 ## Depth-First Search
 |  |
@@ -344,6 +348,7 @@
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3620-network-recovery-pathways) |
 ## Linked List
 |  |
@@ -438,6 +443,7 @@
 | [1288-remove-covered-intervals](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1288-remove-covered-intervals) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -562,6 +568,7 @@
 | [1901-find-a-peak-element-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1901-find-a-peak-element-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3620-network-recovery-pathways) |
 ## Backtracking
 |  |
@@ -579,6 +586,7 @@
 | ------- |
 | [0090-subsets-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0222-count-complete-tree-nodes) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
 |  |
 | ------- |
