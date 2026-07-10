@@ -192,6 +192,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3941-password-strength](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3941-password-strength) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -400,6 +401,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3941-password-strength](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3941-password-strength) |
 ## Prefix Sum
 |  |
 | ------- |
