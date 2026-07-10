@@ -111,6 +111,7 @@
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3620-network-recovery-pathways) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -155,6 +156,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## String
 |  |
 | ------- |
@@ -241,6 +243,7 @@
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3620-network-recovery-pathways) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Depth-First Search
 |  |
 | ------- |
