@@ -11,15 +11,14 @@ class Solution(object):
             for j in range(i+1,n):
                 if items[j][0]%items[i][0]==0:
                     d[items[i][0]]+=1
-        dp = [[-1]*(budget+1) for _ in range(n)]
-        def f(i,b):
-            if i==n:
-                return b//mini
-            if dp[i][b] !=-1:
-                return dp[i][b]
-            p1,p2 = f(i+1,b),0
-            if b>=items[i][1]:
-                p2 = 1+d[items[i][0]]+f(i+1,b-items[i][1])
-            dp[i][b] = max(p1,p2)
-            return max(p1,p2)
-        return f(0,budget)
+        dp = [b//mini for b in range(budget+1)]
+        for i in range(n-1,-1,-1):
+            ndp = [-1]*(budget+1)
+            for b in range(budget+1):
+                p1,p2 = dp[b],0
+                if b>=items[i][1]:
+                    p2 = 1+d[items[i][0]]+dp[b-items[i][1]]
+                ndp[b] = max(p1,p2)
+            dp = ndp
+
+        return max(dp)
