@@ -723,4 +723,8 @@
 | [0543-diameter-of-binary-tree](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
