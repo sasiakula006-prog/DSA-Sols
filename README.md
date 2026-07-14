@@ -109,6 +109,7 @@
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3620-network-recovery-pathways) |
@@ -245,6 +246,7 @@
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3620-network-recovery-pathways) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3946-maximum-number-of-items-from-sale-i) |
@@ -520,6 +522,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1922-count-good-numbers](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1922-count-good-numbers) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Design
@@ -727,4 +730,8 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
