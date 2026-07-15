@@ -28,6 +28,7 @@ class Solution:
             r = dfs(n.right)
             if l==0 or r==0:
                 ans.append(n.val)
+                return -1
             if l == -1 and r==-1:
                 return -1
             if l !=-1:
