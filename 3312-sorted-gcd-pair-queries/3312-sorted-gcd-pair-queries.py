@@ -12,7 +12,7 @@ class Solution:
             c = 0
             for d in range(g,m+1,g):
                 c += a[d]
-            cnt[g] = (c*(c-1))/2
+            cnt[g] = (c*(c-1))//2
             for mu in range(2*g,m+1,g):
                 cnt[g] -= cnt[mu]
 
