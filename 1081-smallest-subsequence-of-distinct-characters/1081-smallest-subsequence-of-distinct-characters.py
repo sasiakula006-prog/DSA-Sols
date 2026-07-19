@@ -1,19 +1,15 @@
-class Solution(object):
-    def smallestSubsequence(self, s):
+class Solution:
+    def smallestSubsequence(self, s: str) -> str:
         d = defaultdict(int)
-        vis = set()
         for val in s:
-            d[val] += 1
-        
+            d[val] +=1
+        vis = set()
         stack = []
-        for a in s:
-            d[a]-=1
-            if a in vis:
+        for val in s:
+            d[val] -=1
+            if val in stack:
                 continue
-            while stack and ord(stack[-1])>ord(a) and d[stack[-1]]>0:
-                b = stack.pop()
-                vis.remove(b)
-            stack.append(a)
-            vis.add(a)
-        return ''.join(stack)
-        
+            while stack and ord(stack[-1])> ord(val) and d[stack[-1]]>0:
+                stack.pop()
+            stack.append(val)
+        return "".join(stack)
