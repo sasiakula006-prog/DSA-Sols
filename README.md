@@ -42,6 +42,7 @@
 | [0130-surrounded-regions](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0169-majority-element) |
@@ -185,6 +186,7 @@
 | [0115-distinct-subsequences](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0316-remove-duplicate-letters) |
 | [0424-longest-repeating-character-replacement](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0424-longest-repeating-character-replacement) |
@@ -230,6 +232,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0213-house-robber-ii) |
@@ -406,6 +409,7 @@
 | [0127-word-ladder](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0146-lru-cache) |
@@ -692,6 +696,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0139-word-break) |
 ## Combinatorics
 |  |
 | ------- |
@@ -794,4 +799,12 @@
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1143-longest-common-subsequence) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
