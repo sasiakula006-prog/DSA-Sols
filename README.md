@@ -780,4 +780,12 @@
 | ------- |
 | [1260-shift-2d-grid](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
