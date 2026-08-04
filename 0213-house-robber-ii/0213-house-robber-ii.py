@@ -1,15 +1,17 @@
-class Solution(object):
-    def rob(self, nums):
+class Solution:
+    def rob1(self, nums: List[int]) -> int:
         n = len(nums)
-        if n==1:
-            return nums[-1]
-        def solve(nums):
-            prev1 = 0
-            prev2 = 0
-            for val in nums:
-                cur = max(prev1,prev2+val)
-                prev2 = prev1
-                prev1 = cur
-            return cur
-        return max(solve(nums[:-1]),solve(nums[1:]))
-        
+        dp = [-1]*(n+1)
+        dp[-1] = 0
+        for i in range(n-1,-1,-1):
+            p1,p2 = dp[i+1],nums[i]
+            if i<=n-2:
+                p2 += dp[i+2]
+            dp[i] = max(p1,p2)
+
+        return dp[0]
+
+    def rob(self, nums: List[int]) -> int:
+        if len(nums)==1:
+            return nums[0]
+        return max(self.rob1(nums[:-1]),self.rob1(nums[1:]))
