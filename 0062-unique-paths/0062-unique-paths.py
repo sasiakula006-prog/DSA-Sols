@@ -1,15 +1,13 @@
-class Solution(object):
-    def uniquePaths(self, m, n):
-        dic = [(0,1),(1,0)]
-        dp = [[0]*n for _ in range(m)]
-        def solve(i,j):
-            if i == m-1 and j== n-1:
+class Solution:
+    def uniquePaths(self, m: int, n: int) -> int:
+        dp = [[-1]*(m) for _ in range(n)]
+        def f(i,j):
+            if i<0 or i>=n or j<0 or j>=m:
+                return 0
+            if i==n-1 and j==m-1:
                 return 1
-            if dp[i][j]:
+            if dp[i][j] !=-1:
                 return dp[i][j]
-            for di,dj in dic:
-                ni,nj = i+di,j+dj
-                if ni <m and nj < n:
-                    dp[i][j] += solve(ni,nj)
+            dp[i][j] = f(i+1,j)+f(i,j+1)
             return dp[i][j]
-        return solve(0,0)
+        return f(0,0)
