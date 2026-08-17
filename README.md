@@ -811,4 +811,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0139-word-break) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
