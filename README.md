@@ -829,4 +829,8 @@
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0646-maximum-length-of-pair-chain) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
