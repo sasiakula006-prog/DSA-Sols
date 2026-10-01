@@ -1,9 +1,6 @@
 class Solution:
     def isValid(self, s: str) -> bool:
         st = []
-        if len(s)%2:
-            return False
-
         d = {'(':')','[':']','{':'}'}
         for val in s:
             if val in d:
