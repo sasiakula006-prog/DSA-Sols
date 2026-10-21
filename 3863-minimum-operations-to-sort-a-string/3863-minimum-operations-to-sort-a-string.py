@@ -23,10 +23,10 @@ class Solution:
                 mx = i
         if f:
             return 0
-
-        if mn==len(s)-1 and mx ==0:
-            return 3
         if mn ==0 or mx==len(s)-1:
             return 1
+        if mn==len(s)-1 and mx ==0:
+            return 3
+
         return 2
         
