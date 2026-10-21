@@ -211,6 +211,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3941-password-strength](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3941-password-strength) |
 ## Dynamic Programming
 |  |
