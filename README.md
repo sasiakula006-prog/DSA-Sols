@@ -112,6 +112,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2050-parallel-courses-iii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/2050-parallel-courses-iii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/2104-sum-of-subarray-ranges) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -495,6 +496,7 @@
 | [1288-remove-covered-intervals](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1331-rank-transform-of-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -627,6 +629,7 @@
 | [1539-kth-missing-positive-number](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1901-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3532-path-existence-queries-in-a-graph-i) |
