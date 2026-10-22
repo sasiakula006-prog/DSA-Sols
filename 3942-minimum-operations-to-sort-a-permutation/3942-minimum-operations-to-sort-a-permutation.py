@@ -31,7 +31,7 @@ class Solution:
             else:
                 return min(idx,n-idx+2)
         else:
-            if nums[0]==0:
+            if p==1:
                 return 0
             else:
                 return 1
