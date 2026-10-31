@@ -15,7 +15,7 @@ class Solution:
                 if i+(1-d)<m and j+d <n and dp[i+(1-d)][j+d][1-d] == -1:
                     dp[i][j][d] = f(i+(1-d),j+d,1-d)
                 else:
-                    return 0
+                   dp[i][j][d] =  0
             else:
                 v = 0
                 for di,dj in dic:
