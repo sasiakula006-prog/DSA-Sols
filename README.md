@@ -123,6 +123,7 @@
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3620-network-recovery-pathways) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3665-twisted-mirror-path-count) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -277,6 +278,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3620-network-recovery-pathways) |
+| [3665-twisted-mirror-path-count](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Depth-First Search
@@ -684,6 +686,7 @@
 | [1901-find-a-peak-element-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1901-find-a-peak-element-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3665-twisted-mirror-path-count](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Topological Sort
 |  |
