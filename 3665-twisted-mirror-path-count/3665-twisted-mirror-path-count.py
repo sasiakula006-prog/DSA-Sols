@@ -13,13 +13,13 @@ class Solution:
                 return dp[i][j][d]
             if grid[i][j] == 1:
                 if i+(1-d)<m and j+d <n and dp[i+(1-d)][j+d][1-d] == -1:
-                    dp[i][j][d] = f(i+(1-d),j+d,1-d)
+                    dp[i][j][d] = (f(i+(1-d),j+d,1-d))%mod
                 else:
                    dp[i][j][d] =  0
             else:
                 v = 0
                 for di,dj in dic:
-                    v += f(i+di,j+dj,di)
+                    v += (f(i+di,j+dj,di))%mod
                 dp[i][j][d] = v
             return dp[i][j][d]
         return (f(0,0,0))%mod
