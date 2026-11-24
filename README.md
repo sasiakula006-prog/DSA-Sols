@@ -766,6 +766,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0662-maximum-width-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
@@ -789,6 +790,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0662-maximum-width-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Enumeration
@@ -847,4 +849,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0020-valid-parentheses) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
