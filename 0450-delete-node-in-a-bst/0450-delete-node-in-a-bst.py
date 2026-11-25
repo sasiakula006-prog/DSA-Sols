@@ -8,11 +8,9 @@ class Solution:
     def deleteNode(self, root: TreeNode | None, key: int) -> TreeNode | None:
 
         def r_most(node):
-            pre = None
             while node.right:
-                pre = node
                 node = node.right
-            return (pre,node)
+            return node
         
         n = root
         p = None
@@ -20,7 +18,7 @@ class Solution:
         while n:
             if n.val == key:
                 if n.left:
-                    pre,req = r_most(n.left)
+                    req = r_most(n.left)
                     if d==1:
                         p.right = n.left
                     elif d==-1:
