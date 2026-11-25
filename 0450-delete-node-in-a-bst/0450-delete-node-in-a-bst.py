@@ -6,12 +6,6 @@
 #         self.right = right
 class Solution:
     def deleteNode(self, root: TreeNode | None, key: int) -> TreeNode | None:
-        def l_most(node):
-            pre = None
-            while node.left:
-                pre = node
-                node = node.left
-            return (pre,node)
 
         def r_most(node):
             pre = None
