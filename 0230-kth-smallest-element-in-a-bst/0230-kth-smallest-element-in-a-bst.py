@@ -1,13 +1,17 @@
 
 class Solution:
     def kthSmallest(self, root: TreeNode | None, k: int) -> int:
-        lis = []
+        idx = [0]
+        ans = [0]
         def dfs(n):
             if n.left:
                 dfs(n.left)
-            lis.append(n.val)
+            idx[-1]+=1
+            if idx[-1]==k:
+                ans[-1] += n.val
+                return
             if n.right:
                 dfs(n.right)
 
         dfs(root)
-        return lis[k-1]
+        return ans[-1]
