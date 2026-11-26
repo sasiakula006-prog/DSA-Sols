@@ -90,6 +90,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1004-max-consecutive-ones-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1020-number-of-enclaves) |
 | [1043-partition-array-for-maximum-sum](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1043-partition-array-for-maximum-sum) |
@@ -545,6 +546,7 @@
 | [0678-valid-parenthesis-string](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0678-valid-parenthesis-string) |
 | [0901-online-stock-span](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1106-parsing-a-boolean-expression](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1106-parsing-a-boolean-expression) |
 | [2104-sum-of-subarray-ranges](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/2104-sum-of-subarray-ranges) |
@@ -558,6 +560,7 @@
 | [0496-next-greater-element-i](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0901-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2104-sum-of-subarray-ranges](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/2104-sum-of-subarray-ranges) |
 ## Math
@@ -776,6 +779,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -804,6 +808,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Enumeration
 |  |
 | ------- |
@@ -868,6 +873,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sasiakula006-prog/DSA-Sols/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Lifting
 |  |
 | ------- |
